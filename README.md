@@ -5,7 +5,6 @@
 - 📫 How to reach me
     * Email : mhdfarzin121@gmail.com
     * linkedin : www.linkedin.com/in/muhammad-farzin
-    * instagram :@ farzzyn
 - 😄 Pronouns: He/Farzy
 - ⚡ Fun fact: I analyze pizza toppings data to find the ultimate combo! �🍕
 
