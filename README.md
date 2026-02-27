@@ -4,7 +4,7 @@
 <h3 align="center">Data Analyst | Data Scientist</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="900"/>
+  <img src="[https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="900](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG41NGJ3ZGU3dmFsMnA0MHYybmtyeGUyZHowMnQwbDQwMjZjd2piayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wiSfckngHK5oGRKb1B/giphy.gif)"/>
 </p>
 
 ---
