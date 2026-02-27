@@ -1,11 +1,10 @@
 <!-- TOP PIXEL ROOM IMAGE -->
 <p align="center">
-  <img src="assets/pixel-room.png" width="900" alt="Pixel Art Room"/>
+  <img src="./assets/pixel-room.png" width="900"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Muhammed Farzin</h1>
 <h3 align="center">Data Analyst | Data Scientist</h3>
-
 <!-- TENOR ANIMATION (CORRECT EMBED) -->
 <p align="center">
   <img src="https://media.tenor.com/8KZQZp4ZJZ0AAAAC/pixelart.gif" width="900" alt="Pixel Art Animation"/>
