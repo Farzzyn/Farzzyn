@@ -1,7 +1,5 @@
 <!-- TOP IMAGE (Upload your image to: /assets/pixel-room.png ) -->
-<p align="center">
-  <img src="./assets/pixel-room.png" width="900" alt="Pixel Art Room"/>
-</p>
+>
 
 <!-- NAME ANIMATION (TYPING) -->
 <p align="center">
