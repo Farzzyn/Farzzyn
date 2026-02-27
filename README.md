@@ -1,6 +1,6 @@
 <!-- HERO SECTION -->
 <h1 align="center">Hi 👋, I'm Farzin P</h1>
-<h3 align="center">AI Engineer | Data Scientist | ML Enthusiast</h3>
+<h3 align="center">Data Analyst | Data Scientist | ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Data+Scientist;Machine+Learning+Specialist;Building+Intelligent+Systems" />
@@ -80,8 +80,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Farzzyn&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farzzyn&theme=tokyonight" height="160"/>
 </p>
 
 ---
@@ -89,7 +89,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Farzzyn&theme=tokyo-night"/>
 </p>
 
 ---
@@ -100,7 +100,7 @@
   <a href="https://linkedin.com/in/YOUR_LINK">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:Muhammedfarzin.data@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
@@ -108,5 +108,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=Farzzyn&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
