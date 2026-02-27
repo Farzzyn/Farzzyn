@@ -1,10 +1,11 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="900"/>
-</p>
 
 <h1 align="center">👋 Hi, I'm Muhammed Farzin</h1>
 
 <h3 align="center">Data Analyst | Data Scientist</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="900"/>
+</p>
 
 ---
 
