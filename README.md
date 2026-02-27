@@ -1,11 +1,12 @@
-<!-- TOP PIXEL ROOM IMAGE -->
+<!-- TOP PIXEL ROOM IMAGE (Option A: relative path) -->
 <p align="center">
-  <img src="./assets/pixel-room.png" width="900"/>
+  <img src="./assets/pixel-room.png" width="900" alt="Pixel Art Room"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Muhammed Farzin</h1>
 <h3 align="center">Data Analyst | Data Scientist</h3>
-<!-- TENOR ANIMATION (CORRECT EMBED) -->
+
+<!-- TENOR GIF (direct GIF link that works on GitHub) -->
 <p align="center">
   <img src="https://media.tenor.com/8KZQZp4ZJZ0AAAAC/pixelart.gif" width="900" alt="Pixel Art Animation"/>
 </p>
