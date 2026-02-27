@@ -1,115 +1,91 @@
-<!-- HERO SECTION -->
-<h1 align="center">Hi 👋, I'm Farzin </h1>
-<h3 align="center">Data Analyst | Data Scientist | ML Enthusiast</h3>
-
-<h1 align="center">Muhammed Farzin</h1>
-<h3 align="center">Data Analyst | Data Scientist |</h3>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="800"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="900"/>
 </p>
 
----
+<h1 align="center">👋 Hi, I'm Muhammed Farzin</h1>
 
-## 🧠 About Me
-
-🔹 Building intelligent systems that transform raw data into actionable business impact.  
-🔹 Passionate about AI, Machine Learning, NLP & scalable ML systems.  
-🔹 Experienced in deploying ML models into production.  
-🔹 Focused on real-world AI applications & automation.
+<h3 align="center">Data Analyst | Data Scientist</h3>
 
 ---
 
-## ⚙️ Tech Stack
+## 🚀 About Me
 
-### 🤖 Machine Learning & AI
+I am a data-driven professional passionate about transforming raw data into meaningful insights that drive smarter business decisions.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-E34A86?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Transformers-FFBF00?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</p>
+With hands-on experience across **data analysis, business intelligence, and machine learning**, I enjoy working end-to-end — from data cleaning and exploration to visualization and predictive modeling.
 
----
-
-### 📊 Data & BI
-
-<p>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-005F9E?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+**What I do best:**
+- Turning complex datasets into actionable insights  
+- Building dashboards that tell clear business stories  
+- Applying statistical & ML techniques to real-world problems  
+- Supporting decision-making with data-backed evidence  
 
 ---
 
-### 🚀 Deployment & Automation
+## 🧠 Skills & Technologies
 
-<p>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-</p>
+### 📌 Data Analytics & Business Intelligence
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+
+- KPI Dashboards & Reporting  
+- Data Cleaning & Validation  
+- Exploratory Data Analysis (EDA)  
+- Business & Predictive Analytics  
+
+---
+
+### 🤖 Machine Learning & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+- Regression & Classification Models  
+- Feature Engineering  
+- Model Evaluation (R², RMSE, Accuracy)  
+- NLP Basics & Predictive Modeling  
 
 ---
 
-## 🚀 Featured Projects
+### ⚙️ Deployment & Automation
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🔹 AI-Powered Predictive Sales Forecasting
-- Built end-to-end ML pipeline with feature engineering
-- Optimized regression models with strong R² performance
-- Deployed interactive Streamlit application
-- Integrated BI monitoring dashboard
+- Interactive Dashboards & Apps  
+- Automated Reporting Pipelines  
+- Version Control & Documentation  
 
 ---
+
+## 📌 Featured Projects
+
+### 🔹 AI-Powered Sales Forecasting
+- Built a predictive model to forecast sales trends  
+- Improved planning accuracy using historical data  
+- Delivered insights through interactive dashboards  
 
 ### 🔹 Business Intelligence Dashboard
-- Designed KPI-focused BI dashboard
-- Automated reporting using SQL & Python
-- Improved reporting efficiency & decision-making
+- Designed Power BI dashboards for KPI tracking  
+- Automated reporting workflows using Python  
+- Enabled faster decision-making for stakeholders  
+
+### 🔹 NLP-Based Text Analysis
+- Applied NLP techniques for text classification  
+- Extracted insights from unstructured data  
+- Supported data-driven content analysis  
 
 ---
 
-### 🔹 NLP-Based AI Chatbot
-- Built domain-specific chatbot using Transformer models
-- Implemented semantic search & contextual reasoning
-- Integrated into web-based interface
+## 📫 Connect With Me
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Farzzyn&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farzzyn&theme=tokyonight" height="160"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Farzzyn&theme=tokyo-night"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:Muhammedfarzin.data@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
+📧 **Email:** muhammedfarzin.data@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/farzzyn  
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Farzzyn&label=Profile+Views&color=0e75b6&style=flat"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Turning+Data+into+Insights;Data+Driven+Decision+Making;Always+Learning+Always+Building" />
 </p>
