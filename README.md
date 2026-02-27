@@ -1,12 +1,17 @@
-<!-- TOP PIXEL ROOM IMAGE (Option A: relative path) -->
+<!-- TOP IMAGE (Upload your image to: /assets/pixel-room.png ) -->
 <p align="center">
   <img src="./assets/pixel-room.png" width="900" alt="Pixel Art Room"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm Muhammed Farzin</h1>
+<!-- NAME ANIMATION (TYPING) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2500&pause=700&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Muhammed+Farzin;Data+Analyst+%7C+Data+Scientist;Turning+Data+into+Business+Insights" alt="Typing SVG" />
+</p>
+
+<!-- OPTIONAL: SMALL SUBTITLE (STATIC) -->
 <h3 align="center">Data Analyst | Data Scientist</h3>
 
-<!-- TENOR GIF (direct GIF link that works on GitHub) -->
+<!-- MAIN ANIMATION GIF -->
 <p align="center">
   <img src="https://media.tenor.com/8KZQZp4ZJZ0AAAAC/pixelart.gif" width="900" alt="Pixel Art Animation"/>
 </p>
@@ -91,6 +96,7 @@ With hands-on experience across **data analysis, business intelligence, and mach
 
 ---
 
+<!-- FOOTER ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Turning+Data+into+Insights;Data+Driven+Decision+Making;Always+Learning+Always+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Muhammed+Farzin+%7C+Data+Analyst;Muhammed+Farzin+%7C+Data+Scientist;Always+Learning+%E2%9A%A1+Always+Building" />
 </p>
