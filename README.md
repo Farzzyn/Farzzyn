@@ -1,9 +1,9 @@
 <!-- HERO SECTION -->
-<h1 align="center">Hi 👋, I'm Farzin P</h1>
+<h1 align="center">Hi 👋, I'm Farzin </h1>
 <h3 align="center">Data Analyst | Data Scientist | ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=Muhammed%20Jalal%20P&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20|%20Data%20Scientist&descAlignY=60&descSize=18" />
 </p>
 
 ---
