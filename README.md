@@ -3,7 +3,7 @@
 
 <!-- NAME ANIMATION (TYPING) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2500&pause=700&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Muhammed+Farzin;Data+Analyst+%7C+Data+Scientist;Turning+Data+into+Business+Insights" alt="Typing SVG" />
+  <img src=""C:\Users\mhdfa\Downloads\DEEKAY.gif"" />
 </p>
 
 <!-- OPTIONAL: SMALL SUBTITLE (STATIC) -->
