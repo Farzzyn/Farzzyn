@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="https://github.com/Farzzyn/Farzzyn/blob/main/Tired Now.gif?raw=true" alt="Tired at the desk" width="100%" /></p>
+  <img src="https://raw.githubusercontent.com/Farzzyn/Farzzyn/main/Tired%20Now.gif" alt="Tired at the desk" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Muhammed Farzin 👋</h1>
 <h3 align="center">Data Analyst | Data Scientist</h3>
 
 ---
-
 ## 🚀 About Me
 
 I am a data-driven professional passionate about transforming raw data into meaningful insights that support smarter business decisions.
@@ -20,7 +19,6 @@ With hands-on experience in **data analysis, business intelligence, and machine 
 - Supporting decision-making with data-backed evidence
 
 ---
-
 ## 🧠 Skills & Technologies
 
 ### 📌 Data Analytics & Business Intelligence
@@ -35,7 +33,6 @@ With hands-on experience in **data analysis, business intelligence, and machine 
 - Business & Predictive Analytics
 
 ---
-
 ### 🤖 Machine Learning & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -48,7 +45,6 @@ With hands-on experience in **data analysis, business intelligence, and machine 
 - NLP Basics & Predictive Modeling
 
 ---
-
 ### ⚙️ Deployment & Automation
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -58,7 +54,6 @@ With hands-on experience in **data analysis, business intelligence, and machine 
 - Version Control & Documentation
 
 ---
-
 ## 📌 Featured Projects
 
 ### 🔹 AI-Powered Sales Forecasting
@@ -77,14 +72,11 @@ With hands-on experience in **data analysis, business intelligence, and machine 
 - Supported data-driven content analysis
 
 ---
-
 ## 📫 Connect With Me
-
-📧 **Email:** [muhammedfarzin.data@gmail.com](mailto:muhammedfarzin.data@gmail.com)  
+📧 **Email:** [muhammedfarzin.data@gmail.com](mailto:muhammedfarzin.data@gmail.com)
 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/farzzyn)
 
 ---
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Muhammed+Farzin+%7C+Data+Analyst;Muhammed+Farzin+%7C+Data+Scientist;Always+Learning+%E2%9A%A1+Always+Building" alt="Typing footer animation" />
 </p>
