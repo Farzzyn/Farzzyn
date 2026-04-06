@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Farzzyn/Farzzyn/blob/main/tired-now.jpg?raw=true" alt="Tired at the desk" width="100%" />
+  <img src="https://github.com/Farzzyn/Farzzyn/blob/main/tired-now.gif?raw=true" alt="Tired at the desk" width="100%" /></p>
 </p>
 
 <h1 align="center">Hi, I'm Muhammed Farzin 👋</h1>
