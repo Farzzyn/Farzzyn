@@ -3,7 +3,7 @@
 
 <!-- NAME ANIMATION (TYPING) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Farzzyn/Farzzyn/main/Tired-Now.jpg" alt="Tired at the desk" width="100%" />
+  <img src="https://raw.githubusercontent.com/Farzzyn/Farzzyn/master/Tired-Now.jpg" alt="Tired at the desk" width="100%" />
 </p>
 
 
