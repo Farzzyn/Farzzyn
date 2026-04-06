@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Tired-Now.jpg" alt="Tired at the desk" width="100%" />
+  <img src="./tired-now.jpg" alt="Tired at the desk" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Muhammed Farzin 👋</h1>
@@ -81,7 +81,7 @@ With hands-on experience in **data analysis, business intelligence, and machine 
 ## 📫 Connect With Me
 
 📧 **Email:** [muhammedfarzin.data@gmail.com](mailto:muhammedfarzin.data@gmail.com)  
-💼 **LinkedIn:** [https://www.linkedin.com/in/farzzyn](https://www.linkedin.com/in/farzzyn)
+💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/farzzyn)
 
 ---
 
