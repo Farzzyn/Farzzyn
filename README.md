@@ -3,8 +3,9 @@
 
 <!-- NAME ANIMATION (TYPING) -->
 <p align="center">
-  <img src=""C:\Users\mhdfa\Downloads\DEEKAY.gif"" />
+  <img src="https://raw.githubusercontent.com/Farzzyn/Farzzyn/main/Tired-Now.jpg" alt="Tired at the desk" width="100%" />
 </p>
+
 
 <!-- OPTIONAL: SMALL SUBTITLE (STATIC) -->
 <h3 align="center">Data Analyst | Data Scientist</h3>
